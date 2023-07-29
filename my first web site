@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="tr">
+    <head>
+    <title>ÖZLEM BELÖRENOĞLU</title>
+    </head>
+    <body>
+        <h1>ÖZLEM BELÖRENOĞLU</h1>
+            <h2>Hakkımda</h2>
+            <p>
+                Merhaba Kodluyoruz! Bendeniz Özlem Belörenoğlu. Ankara Üniversitesi Hukuk Fakültesi mezunuyum. Bilişim Hukuku ile ilgilenmekteyim. Cs50 for Lawyers eğitimiyle başladığım ve C programlamma dili ile devam ettiğim yolculuğuma html işaretleme dili ile devam ediyorum. 
+                Ankara'da yaşamaktayım. Ancak daha çok göçebe olduğum söylenebilir. Farklı şehirleri keşfetmeyi seviyorum. Yazılım ile de dijital göçebe olarak hayatıma devam etmeyi planlıyorum. 
+                Yazılım ve bilgisayar teknolojilerini öğrenmekten son derece keyif almaktayım. Kaya tırmanışı,dağcılık, kanyon sporu, sörf ve koşu vs. gibi sporlarla ilgilenmekteyim. Ciddi manada bir bilimkurgu severim. 
+                Hatta eski bilimkurgu eserlerinin de arşivini yapmaktayım. Bilimkurgu ve bilimsever biri olarak web teknolojileri alanında aldığım eğitimlerden son derece keyif almakta ve bana katkılarından dolayı mutluluk duymaktayım.
+                <!-- kendim hakkında yeterince bilgi içermiyor olabilir, duruma göre eklemeler yapmakta fayda olabilir. -->
+            </p> 
+                <h3>Sevdiğim Kitaplar</h3>
+                    <h4>Do the Androids dream of electric sheep?</h4>
+                    <p>Androidler elektrikli koyun düşler mi? adıyla dilimize çevrilen Philip K.Dick'e ait bir bilimkurgu kitabı; öyle ki eser Blade Runner adıyla beyaz perdeye de uyarlanmıştır. Gerçek olanla gerçek olmayanın ayırt edilmesi noktasında derinde büyük felsefi sorgulamaların yattığı bu kitap gerek teknolojik gelişmelere bakış açımı, gerekse de hayattaki gerçek kavramına ve bunun şekillendirdiği tüm verilere bambaşka gözle bakmamı sağlaması açısından benim için çok değerlidir.</p>
+                    <p>Kitabı okuyacaklara tavsiyem 1982 yapımı filmini de izlemeleridir. Özellikle filmin son sahnesinde yağmur yağarken çatıkatında gerçekleşen konuşma insan ve android canlı arasındaki farkın ya da benzerliğin ne olduğu, gerçekte gerçeğin ne olduğu noktasında son derece trajiktir.</p>
+                    <!-- bir de yakın zamanda çekilen filmi var onu izlemedim izlediğimde buraya bir güncelleme yapmayı unutma! -->
+                    <h4>Patikalar Üzerine</h4>
+                    <p>Robert Moore tarafından kaleme alının bu kitapta hayvanların ve insanların en eski ve en temel bilgeliklerinin temsili olan patikalar işlenmektedir. Ormanda yolumuzu bulmamıza yardımcı olan patikalarda gizli olan bilgeliğin tarihini, bilimselliğini, faydalarını ve ne işe yaradığını birçok açıdan ele alan kitap doğasever ve doğada olmayı sever herkese hitap edecek bir kitap.</p>
+                    <p>Kitabı özellikle doğada okumanızı, patikalardan birinde ilerlerken yazılanlarını düşünmenizi ve minik ama büyük ufuk açıcı farkındalıklarla yeni bir doğa keşif yolculuğuna çıkmanızı tavsiye ederim.</p>
+                    <!-- buraya kitabın kısa bir özetini eklemek faydalı olabilir mi? Bunu bir değerlendirmem lazım -->
+                <h3>Hobilerim</h3>
+                    <ul>
+                        <li>Kaya Tırmanışı</li>
+                        <li>Dağcılık</li>
+                        <li>Canyoning</li>
+                        <li>koşu</li>
+                        <li>Buz tırmanışı</li>
+                        <li>Sörf</li>
+                        <li>Yelkencilik</li>
+                        <li>Ahşap boyama</li>
+                        <li>Gastronomik Keşifler</li>
+                    </ul>
+    </body>
+</html>
